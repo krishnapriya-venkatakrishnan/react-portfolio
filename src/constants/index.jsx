@@ -14,7 +14,14 @@ During this period, I engaged in extensive self-study and completed a course in 
 
 export const EXPERIENCES = [
     {
-        year: "August 2021- December 2022",
+        year: "July 2022- December 2022",
+        role: "T24 Associate Lead Product Engineer",
+        company: "Temenos India Pvt Ltd",
+        description: ["In addition to the responsibilities held as a T24 Specialist, I led technical initiatives, coordinating with stakeholders to ensure timely delivery and alignment with client expectations.",
+        "Conducted risk assessments and developed mitigation strategies to address potential challenges during project execution."],
+    },
+    {
+        year: "August 2021- June 2022",
         role: "T24 Specialist",
         company: "Temenos India Pvt Ltd",
         description: ["Provided customer support and participated in requirement-gathering meetings, ensuring client needs were clearly understood and documented.",
